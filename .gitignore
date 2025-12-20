@@ -1,0 +1,15 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dossiers d'IDE
+.vscode/
+.idea/
+
+# MNIST etc
+dataset/
