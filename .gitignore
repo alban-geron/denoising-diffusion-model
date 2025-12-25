@@ -13,3 +13,4 @@ __pycache__/
 
 # MNIST, CIFAR-10 etc
 dataset/
+*.pth 
