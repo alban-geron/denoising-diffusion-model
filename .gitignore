@@ -16,3 +16,4 @@ dataset/
 *.pth 
 data/
 checkpoints/
+diffusion/data/MNIST/raw
